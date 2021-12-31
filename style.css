@@ -1,0 +1,36 @@
+body
+{
+   background-position: center;
+   background-size: cover; 
+}
+.heading button
+{
+   float:right;
+   border:1px solid white;
+   font-style:italic;
+   font-family:Cambria;
+   font-size:15px;
+}
+
+.heading
+{
+    width:100%;
+    text-align:center;
+}
+
+.heading h1
+{
+    display:inline;
+    font-size:30px;
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#start
+{
+    width:25%;
+    font-style:italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:15px;
+    border: 2px solid blue;
+}
